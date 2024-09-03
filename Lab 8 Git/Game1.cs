@@ -11,6 +11,7 @@ namespace Lab_8_Git
         private int speed;
         private int time;
         private int word;
+        private int jump;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
