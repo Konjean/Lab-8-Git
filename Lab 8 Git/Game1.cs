@@ -10,6 +10,7 @@ namespace Lab_8_Git
         private SpriteBatch _spriteBatch;
         private int speed;
         private int time;
+        private int word;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
